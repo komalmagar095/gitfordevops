@@ -1,2 +1,3 @@
-echo "hello world
-"
+echo "hello world"
+want to check git revert and reset function
+
